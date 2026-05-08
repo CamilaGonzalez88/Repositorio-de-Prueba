@@ -8,4 +8,4 @@ Este repositorio contiene ejercicios de:
 - Operadores lógicos
 
 ## Autor
-Tu Nombre
+Camila Gonzalez
